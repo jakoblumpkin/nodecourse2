@@ -4,3 +4,6 @@ const timerId = setTimeout(
 );
 
 clearTimeout(timerId);
+
+// clearinterval
+// clearimmediate
